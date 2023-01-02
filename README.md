@@ -1,2 +1,2 @@
-# Hackerrank
-Solutions to many hackerrank questions.(DO NOT JUST COPY AND PASTE. PLEASE UNDERSTAND THE SOLUTION....)
+# 30-days-of-code-hackerrank
+Solutions to "30 Days of Code" in hackerrank. Please don't blindly copy and paste :)
